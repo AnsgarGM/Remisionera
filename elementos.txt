@@ -1,0 +1,7 @@
+Funciones generales del programa para remisiones
+
+- Llenar los campos de las remisiones
+- Agregar pedidos distintos en la tabla de productos correspondientes
+- **A confirmar**  Guardar las remisiones en una base de datos
+- **IMPORTANTE**  Poder generar nuevas remisiones sin cerrar la ventana de la aplicacion
+- **Tal vez en segunda version**  Agregar camionetas y ser capaces de cambiar los datos por default que existan
